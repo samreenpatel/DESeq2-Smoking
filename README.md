@@ -269,7 +269,7 @@ Example (display images in GitHub):
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/RNAseq-DESeq2-Smoking.git
+git clone https://github.com/samreenpatel/DESeq2-Smoking.git 
 ```
 
 2. Download the GSE220113 dataset from GEO.
@@ -314,15 +314,3 @@ Wang X, Campbell MR, Cho HY, Pittman GS, et al. *Epigenomic profiling of isolate
 NCBI Gene Expression Omnibus (GEO). **GSE220113**.
 
 ---
-
-# Author
-
-**Your Name**
-
-Bioinformatics | RNA Sequencing | Differential Gene Expression Analysis | R Programming
-
----
-
-# License
-
-This project is licensed under the MIT License.
