@@ -242,9 +242,8 @@ The **figures/** directory contains:
 - GO Enrichment Map
 - GO Gene–Concept Network
 
-Example (display images in GitHub):
+The following figures summarize the main results of the analysis.
 
-```markdown
 ## Volcano Plot
 
 ![Volcano Plot](figures/Volcano_Plot.png)
@@ -260,7 +259,7 @@ Example (display images in GitHub):
 ## GO Enrichment Map
 
 ![GO Map](figures/GO_Enrichment_Map.png)
-```
+
 
 ---
 
