@@ -1,8 +1,4 @@
-###############################################################
-# Project : Differential Gene Expression Analysis using DESeq2
-# Dataset : GSE220113
-# Analysis: Smoking vs Non-Smoking
-###############################################################
+#Differential Gene Expression Analysis using DESeq2
 
 #==============================================================
 # 1. Clear Workspace
