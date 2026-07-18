@@ -1,0 +1,7 @@
+# Ignore R workspace and history
+.Rhistory
+.RData
+.Rproj.user/
+
+# Ignore generated RData folder
+rData/
